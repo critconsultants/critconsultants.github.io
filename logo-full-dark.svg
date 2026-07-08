@@ -1,0 +1,15 @@
+<svg width="300" height="120" viewBox="0 0 300 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CR IT Consultants">
+  <title>CR IT Consultants</title>
+  <g transform="translate(50,60)">
+    <polygon points="0,-38 32.9,-19 32.9,19 0,38 -32.9,19 -32.9,-19" fill="none" stroke="#2dd4bf" stroke-width="3.4" stroke-linejoin="round"/>
+    <text x="0" y="11" font-family="-apple-system, 'Segoe UI', sans-serif" font-weight="700" font-size="28" fill="#ffffff" text-anchor="middle">CR</text>
+    <circle cx="0" cy="-38" r="3.4" fill="#2dd4bf"/>
+    <circle cx="32.9" cy="-19" r="3.4" fill="#2dd4bf"/>
+    <circle cx="32.9" cy="19" r="3.4" fill="#2dd4bf"/>
+    <circle cx="0" cy="38" r="3.4" fill="#2dd4bf"/>
+    <circle cx="-32.9" cy="19" r="3.4" fill="#2dd4bf"/>
+    <circle cx="-32.9" cy="-19" r="3.4" fill="#2dd4bf"/>
+  </g>
+  <text x="100" y="55" font-family="-apple-system, 'Segoe UI', sans-serif" font-weight="700" font-size="19" fill="#ffffff">CR IT</text>
+  <text x="100" y="76" font-family="-apple-system, 'Segoe UI', sans-serif" font-weight="700" font-size="19" fill="#8fa3b8">CONSULTANTS</text>
+</svg>
